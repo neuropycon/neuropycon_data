@@ -6,7 +6,7 @@ import os
 
 setup(
     name="neuropycon_data",
-    version='0.0.0',
+    version='0.0.dev2',
     packages=find_packages(),
     author="David Meunier",
     description="Data for neuropycon testing",
