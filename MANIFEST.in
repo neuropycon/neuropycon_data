@@ -1,0 +1,4 @@
+neuropycon_data/data/data_con/*.txt
+neuropycon_data/data/data_con/*.npy
+
+neuropycon_data/data/data_nii/*.nii

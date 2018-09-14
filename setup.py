@@ -10,5 +10,6 @@ setup(
     packages=find_packages(),
     author="David Meunier",
     description="Data for neuropycon testing",
+    include_package_data=True,
     install_requires=[]
 )
